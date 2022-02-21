@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+body{
+       background: #031119;
+}
+*{
+       font-family: 'Space Grotesk', sans-serif;
+       color: #fff;
+}
+
+
+
+.btn{
+       background: #EF767B;
+       border-radius: 50px;
+       color: #fff;
+       margin-right: 10px;
+       font-size: 14px;
+}
+.btn2{
+      border: 2px solid #EF767B ;
+       border-radius: 50px;
+       color: #fff;
+       padding: 7px 12px;
+       text-decoration: none;
+       
+}
+nav ul li{
+padding:0px  10px ;
+}
+nav{
+       margin-top: 20px;
+}
+.navbar-collapse {
+       
+       flex-grow: 0;
+       
+   }
+/* banner-section-start */
+#banner{
+margin-top: 10em;
+}
+#banner img {
+       margin-top: 2em;
+   }
+
+#service{
+       
+       padding:3em 0em;
+}
+.trial{
+       padding: 3em 0em;
+}
+.card{
+       margin: 1em 0em;
+        
+       background: #071d2d;
+       padding: 10px 20px;
+       border-radius: 20px;
+       box-shadow: 2px 5px 10px rgba(0,5.19,30)
+}
+.card img {
+       width: 30%;
+       height: auto;
+       margin: 10px 0px;
+   }
+   .row{
+       margin: 20px 0px;
+   }
+
+   ul li{
+       list-style: none;
+       
+   }
+   .check li{
+       
+          font-size: 20px;
+         
+   }
+
+   .item{
+          margin: 1em 0em;
+   }
+
+   form{
+       background: #071d2d;
+       padding: 3em 2em;
+       border-radius: 20px;
+       box-shadow: 2px 5px 10px rgba(0,5.19,30)
+
+   }
+   .form-control{
+       background: #071d2d;
+   }
+   .footer-social i{
+       margin: 0px 20px;
+       padding: 8px 8px;
+       background: #fff;
+       border-radius: 50%;
+       color: #071d2d;
+       cursor: pointer;
+
+   }
+   .f-logo img{ 
+          width: 30%;
+          height: auto;
+          margin-left: 10em;
+          margin-bottom: 2em;
+   }
+   
+  
+   .footer-menu a{
+          text-decoration: none;
+          color: #fff;
+          margin: 0px 10px;
+       
+   }
+   .footer-social li{
+       margin: 0px 5px;   
+   }
+   .footer-top{
+          padding: 3em 0em;
+   }
+#footer-bottom{
+       margin-top: 3em;
+       background-color:#071D2D;
+       padding:10px 0px;
+
+}
+
